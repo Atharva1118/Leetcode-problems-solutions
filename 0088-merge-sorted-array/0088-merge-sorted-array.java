@@ -19,6 +19,8 @@ class Solution {
             }
             k=k-1;
         }
+
+        //When there is only one element 0 in nums1 and only one non zero element in nums2
         while(j>=0){
             nums1[k]=nums2[j];
             k--;
