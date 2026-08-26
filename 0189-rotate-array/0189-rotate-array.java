@@ -49,7 +49,8 @@ class Solution {
             idx=(idx+k)%n;
             count++;
         }while(idx!=i);
-
+//Time Complexity = O(n)
+//Space Complexity= O(1)
         }
 
         
