@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
