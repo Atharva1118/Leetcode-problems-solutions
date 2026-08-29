@@ -19,7 +19,8 @@ class Solution {
     // }
 
     public int[] twoSum(int[] nums, int target) {
-
+        // Time Complexity:O(n)
+        //Space Complexity: O(n)
         Map<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
             int number=target-nums[i];
