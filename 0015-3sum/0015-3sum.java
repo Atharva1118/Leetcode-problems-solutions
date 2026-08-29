@@ -1,4 +1,6 @@
 class Solution {
+    //Time Complexity=O(nlogn+n.n)=O(n^2)
+    //Space Complexity=O(n)
     public void twoSumHelper(int[] nums,int f,List<List<Integer>> res){
         int i=f+1;
         int j=nums.length-1;
