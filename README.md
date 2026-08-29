@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
@@ -50,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
