@@ -7,20 +7,29 @@ class Solution {
                 matrix[j][i]=temp;
             }
         }
-        for(int i = 0; i < matrix.length; i++) {
+        // for(int i = 0; i < matrix.length; i++) {
 
-            int j = matrix[i].length - 1;
-            int k = 0;
+        //     int j = matrix[i].length - 1;
+        //     int k = 0;
 
-            while(k < j) {
+        //     while(k < j) {
 
-                int temp = matrix[i][k];
-                matrix[i][k] = matrix[i][j];
-                matrix[i][j] = temp;
+        //         int temp = matrix[i][k];
+        //         matrix[i][k] = matrix[i][j];
+        //         matrix[i][j] = temp;
 
-                k++;
-                j--;
+        //         k++;
+        //         j--;
+        //     }
+        // }
+        int n=matrix.length;
+        for(int i=0;i<n;i++){
+            for(int j=0 ;j<n/2;j++){
+                int temp=matrix[i][j];
+                matrix[i][j]=matrix[i][n-1-j];
+                matrix[i][n-1-j]=temp;
             }
         }
     }
+
 }
