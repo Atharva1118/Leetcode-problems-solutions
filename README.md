@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
