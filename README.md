@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
@@ -111,4 +112,12 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
