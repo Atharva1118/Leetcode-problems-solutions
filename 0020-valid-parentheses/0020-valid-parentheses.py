@@ -3,13 +3,20 @@ class Solution(object):
         stack = []
 
         for b in s:
-            if b == '(':
-                stack.append(')')
-            elif b == '[':
-                stack.append(']')
-            elif b == '{':
-                stack.append('}')
-            elif not stack or stack.pop() != b:
-                return False
+            if b in "([{":
+                stack.append(b)
+            else:
+                if not stack:
+                    return False
+
+                top = stack.pop()
+
+                if b == ')' and top != '(':
+                    return False
+                if b == ']' and top != '[':
+                    return False
+                if b == '}' and top != '{':
+                    return False
 
         return not stack
+        
