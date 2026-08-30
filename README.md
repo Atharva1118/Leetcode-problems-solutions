@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -108,4 +110,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
