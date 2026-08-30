@@ -1,11 +1,6 @@
-class Solution:
+class Solution(object):
     def isValid(self, s):
         stack = []
-        pairs = {
-            ')': '(',
-            ']': '[',
-            '}': '{'
-        }
 
         for b in s:
             if b in "([{":
@@ -16,7 +11,12 @@ class Solution:
 
                 top = stack.pop()
 
-                if pairs[b] != top:
+                if b == ')' and top != '(':
+                    return False
+                if b == ']' and top != '[':
+                    return False
+                if b == '}' and top != '{':
                     return False
 
         return not stack
+        
