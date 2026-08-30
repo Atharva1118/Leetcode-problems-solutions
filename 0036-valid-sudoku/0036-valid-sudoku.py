@@ -19,3 +19,6 @@ class Solution(object):
                     return False
                 boxs[boxIdx][val]=1
         return True
+
+#Time Complexity: O(1)
+#Space Complexity:O(1)
