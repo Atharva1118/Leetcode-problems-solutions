@@ -14,7 +14,7 @@ class Solution(object):
                 if cols[c][val]==1:
                     return False
                 cols[c][val]=1
-                boxIdx=3*(r/3)+(c/3)
+                boxIdx=3*(r//3)+(c//3)
                 if boxs[boxIdx][val]==1:
                     return False
                 boxs[boxIdx][val]=1
