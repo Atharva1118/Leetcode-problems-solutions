@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -52,6 +53,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
