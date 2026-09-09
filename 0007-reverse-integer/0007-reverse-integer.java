@@ -17,3 +17,5 @@ class Solution {
         return (int) reversed;
     }
 }
+// Time Complexity: O(log10(x)) = O(d), where d is the number of digits in x
+// Space Complexity: O(1)
