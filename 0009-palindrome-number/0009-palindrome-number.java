@@ -11,5 +11,7 @@ class Solution {
         }
 
         return x == reverse || x == reverse / 10;
+        // Time Complexity: O(log10(x)) = O(d), where d is the number of digits
+// Space Complexity: O(1)
     }
 }
