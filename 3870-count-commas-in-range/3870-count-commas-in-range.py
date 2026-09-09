@@ -4,4 +4,6 @@ class Solution(object):
             return 0
         else:
             return n-999
+# Time Complexity: O(1)
+# Space Complexity: O(1)
         
