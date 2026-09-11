@@ -1,6 +1,8 @@
 // class Solution {
 //     //Google,Adobe,TikTok,Bloomberg,Uber
 //     public int thirdMax(int[] nums) {
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 //         Integer max1 = null;
 //         Integer max2 = null;
 //         Integer max3 = null;
