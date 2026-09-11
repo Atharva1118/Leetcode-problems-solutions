@@ -95,7 +95,8 @@ class Solution {
             }
         }
     return max3 == null ? max1 : max3;
-
+// Time Complexity: O(n)
+// Space Complexity: O(1)
         
 }
 }
