@@ -16,4 +16,8 @@ class Solution {
         }
         return -1;
     }
+
+        //Time complexity: O(n^2) in the worst case. For each index i (n times), we recompute the left sum (up to i elements) and the right sum (up to n−i−1 elements), leading to roughly n(n−1)/2 operations.
+
+        // Space complexity: O(1) extra space. It uses a few integer accumulators and does not allocate any additional data structures.
 }
