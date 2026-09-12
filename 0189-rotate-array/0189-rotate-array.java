@@ -21,3 +21,8 @@ class Solution {
         reverse(nums, k, nums.length - 1);
     }
 }
+
+
+// Time complexity: O(n), where n is the length of nums. Each reverse call touches a portion of the array, and the three reverses collectively touch each element a constant number of times.
+
+// Space complexity: O(1) extra space, since the rotation is done in place with a few local variables.
