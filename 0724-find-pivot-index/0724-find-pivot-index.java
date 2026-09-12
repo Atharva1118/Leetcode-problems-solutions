@@ -39,5 +39,8 @@ class Solution {
             right_sum=right_sum-nums[i];
         }
         return -1;
-    }     
+    }  
+    // Time complexity: O(n). It traverses the array twice (one pass to compute the initial right_sum, and a second pass to check pivot and update sums), which is linear in the number of elements.
+
+    // Space complexity: O(1). It uses a constant amount of extra variables (right_sum, left_sum, and a loop index), regardless of input size.   
 }
