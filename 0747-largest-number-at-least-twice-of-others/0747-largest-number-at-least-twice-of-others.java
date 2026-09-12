@@ -20,5 +20,6 @@ class Solution {
             }
         }
         return idx;
+        //Total time complexity: O(n). Total space complexity: O(1).
     }
 }
