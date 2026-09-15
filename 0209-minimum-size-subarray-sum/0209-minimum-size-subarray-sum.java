@@ -1,6 +1,6 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        //Meta,Googlr,Amazon,Goldman Sache,Microsoft,Amazon
+        //Meta,Google,Amazon,Goldman Sache,Microsoft,Amazon
         int minLength=Integer.MAX_VALUE;
         int sum=0;
         int i=0;
