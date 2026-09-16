@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0088-merge-sorted-array) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
