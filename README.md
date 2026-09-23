@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
@@ -134,12 +135,14 @@
 | [0009-palindrome-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0136-single-number) |
 ## Quicksort
 |  |
@@ -196,4 +199,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
