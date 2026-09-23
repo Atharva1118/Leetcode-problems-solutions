@@ -11,4 +11,6 @@ class Solution {
         }
         return sum;
     }
+    //Time Complexity: O(n*logn)
+    //Space Complexity: O(1)
 }
