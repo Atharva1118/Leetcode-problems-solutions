@@ -116,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -138,6 +139,7 @@
 | [0050-powx-n](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0050-powx-n) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
