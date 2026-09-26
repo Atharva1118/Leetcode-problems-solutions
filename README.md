@@ -213,4 +213,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
