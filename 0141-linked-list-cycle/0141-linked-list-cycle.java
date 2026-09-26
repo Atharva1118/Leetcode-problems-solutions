@@ -10,18 +10,20 @@
  * }
  */
 public class Solution {
+    //Floyd's Hare and Tortoise Algorithm
     public boolean hasCycle(ListNode head) {
-        //Amazon,Google,Adobe,Microsoft,Apple,etc.
-        Set<ListNode> num = new HashSet<>();
-        ListNode curr=head;
-        while(curr!=null){
-            if(num.contains(curr)){
-               return true;
-            }
-            num.add(curr);
-            curr=curr.next;
+        if(head==null){
+            return false;
         }
-        return false;
-
+        ListNode slow=head;
+        ListNode fast=head.next;
+        while(slow!=fast){
+            if(fast==null || fast.next==null){
+                return false;
+            }
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        return true;
     }
 }
