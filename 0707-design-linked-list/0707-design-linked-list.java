@@ -75,7 +75,15 @@ class MyLinkedList {
         size--;
 
     }
-    //Space Complexity:O(n)
+    // Time complexity:
+    //     - get: O(index) since it traverses index+1 nodes from the dummy head.
+    //     - addAtHead: O(1) plus the O(n) work inside addAtIndex for shifting, but effectively O(index) = O(0) to insert at head, so O(1).
+    //     - addAtTail: O(n) because it traverses to the end via addAtIndex(size, val).
+    //     - addAtIndex: O(min(index, size - index)) in the worst case, but implemented by traversing from head to index, so O(index).
+    //     - deleteAtIndex: O(index) due to traversal to the node before the target.
+
+    // Space complexity:
+    //     - O(1) extra space besides the linked list itself.
 }
 
 /**
