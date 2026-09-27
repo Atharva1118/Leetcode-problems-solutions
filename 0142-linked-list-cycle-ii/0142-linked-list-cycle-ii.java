@@ -47,6 +47,7 @@ public class Solution {
             curr=curr.next;
         }
         return null;
-  
+  //Space Complexity:O(n)
+  //Time Complexity:O(n)
     }
 }
