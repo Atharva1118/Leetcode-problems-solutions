@@ -8,27 +8,51 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// class Solution {
+//     public ListNode removeNthFromEnd(ListNode head, int n) {
+//         //approach 1
+//         ListNode pHead=new ListNode(0);
+//         pHead.next=head;
+//         ListNode curr=head;
+//         int len=0;
+//         while(curr!=null){
+//             len++;
+//             curr=curr.next;
+//         }
+//         int diff=len-n;
+//         int i=0;
+//         ListNode temp=pHead;
+//         while(i<diff){
+//             temp=temp.next;
+//             i++;
+//         }
+//         temp.next=temp.next.next;
+
+//     return pHead.next;
+//     }
+    
+// }
+
+
+
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        //approach 1
+        //approach 2
         ListNode pHead=new ListNode(0);
         pHead.next=head;
-        ListNode curr=head;
-        int len=0;
-        while(curr!=null){
-            len++;
-            curr=curr.next;
-        }
-        int diff=len-n;
-        int i=0;
+        ListNode curr=pHead;
         ListNode temp=pHead;
-        while(i<diff){
-            temp=temp.next;
+        int i=0;
+        while(i<=n){
+            curr=curr.next;
             i++;
         }
+        while(curr!=null){
+            curr=curr.next;
+            temp=temp.next;
+        }
         temp.next=temp.next.next;
-
-    return pHead.next;
+        return pHead.next;
     }
     
 }
