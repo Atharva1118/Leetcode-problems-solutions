@@ -135,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@
 | [0066-plus-one](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -251,4 +253,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
