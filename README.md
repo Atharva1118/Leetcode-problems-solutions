@@ -73,6 +73,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -221,6 +223,7 @@
 | [0050-powx-n](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0707-design-linked-list) |
 ## Design
