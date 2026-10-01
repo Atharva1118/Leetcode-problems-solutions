@@ -143,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
@@ -222,6 +223,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -234,6 +236,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0141-linked-list-cycle) |
