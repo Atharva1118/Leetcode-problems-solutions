@@ -163,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
