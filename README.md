@@ -43,6 +43,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 ## Recursion
 |  |
 | ------- |
@@ -268,4 +271,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
