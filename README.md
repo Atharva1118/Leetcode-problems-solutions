@@ -99,6 +99,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
