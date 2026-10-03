@@ -49,6 +49,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
