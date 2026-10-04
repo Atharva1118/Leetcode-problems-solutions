@@ -108,6 +108,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -161,6 +163,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -216,6 +220,7 @@
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
