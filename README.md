@@ -314,4 +314,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3024-type-of-triangle) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
