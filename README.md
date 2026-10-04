@@ -43,6 +43,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -179,6 +180,7 @@
 | [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2652-sum-multiples) |
