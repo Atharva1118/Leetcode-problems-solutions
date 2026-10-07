@@ -109,6 +109,7 @@
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,4 +332,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
