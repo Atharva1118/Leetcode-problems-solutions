@@ -46,6 +46,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -142,6 +143,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3024-type-of-triangle) |
@@ -154,6 +156,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -325,6 +329,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 ## Polygons
 |  |
