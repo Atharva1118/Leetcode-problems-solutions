@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0027-remove-element) |
@@ -106,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0032-longest-valid-parentheses) |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
