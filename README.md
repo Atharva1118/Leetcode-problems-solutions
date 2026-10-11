@@ -121,6 +121,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -367,4 +368,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
