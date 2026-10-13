@@ -222,6 +222,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0191-number-of-1-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Quicksort
 |  |
@@ -379,4 +380,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
