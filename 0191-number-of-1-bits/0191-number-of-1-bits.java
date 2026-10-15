@@ -1,7 +1,10 @@
 class Solution {
     public int hammingWeight(int n) {
-        String binaryString = Integer.toBinaryString(n);
-        int count = binaryString.replaceAll("[^1]", "").length();
+        int count=0;
+        while(n>0){
+            count=count+(n&1);
+            n=n>>1;
+        }
         return count;
 
     }
