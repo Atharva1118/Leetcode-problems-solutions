@@ -56,6 +56,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3024-type-of-triangle) |
@@ -79,6 +80,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,8 +409,10 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
