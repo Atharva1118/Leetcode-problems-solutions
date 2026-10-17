@@ -62,6 +62,7 @@
 | [3024-type-of-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3024-type-of-triangle) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
