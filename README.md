@@ -40,6 +40,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1089-duplicate-zeros) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -78,6 +79,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -139,6 +141,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1768-merge-strings-alternately) |
@@ -300,6 +303,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Tree
 |  |
 | ------- |
