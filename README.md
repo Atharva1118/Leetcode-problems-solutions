@@ -49,6 +49,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -170,6 +171,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
@@ -200,6 +202,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
