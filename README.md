@@ -154,6 +154,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -242,6 +243,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2652-sum-multiples) |
