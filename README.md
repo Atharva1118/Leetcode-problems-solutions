@@ -41,6 +41,7 @@
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -283,6 +284,7 @@
 | [0036-valid-sudoku](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -421,6 +424,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -454,6 +458,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
