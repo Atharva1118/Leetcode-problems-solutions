@@ -30,3 +30,6 @@ class Solution {
         return dummyHead.next;
     }
 }
+
+// Time Complexity: O(max(m, n))
+// Space Complexity: O(max(m, n))
