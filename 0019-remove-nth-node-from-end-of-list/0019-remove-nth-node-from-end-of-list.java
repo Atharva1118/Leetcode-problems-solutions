@@ -56,3 +56,6 @@ class Solution {
     }
     
 }
+
+// Time Complexity: O(L)
+// Space Complexity: O(1)
