@@ -157,6 +157,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2942-find-words-containing-character) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Polygons
 |  |
 | ------- |
@@ -484,4 +486,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
