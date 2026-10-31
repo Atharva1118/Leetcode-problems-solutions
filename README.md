@@ -68,6 +68,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -224,6 +225,7 @@
 | [0338-counting-bits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [0048-rotate-image](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
