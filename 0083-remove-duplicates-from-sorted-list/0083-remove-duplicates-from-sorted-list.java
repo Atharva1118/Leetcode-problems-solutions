@@ -15,3 +15,6 @@ class Solution {
         return head;
     }
 }
+
+// Time Complexity: O(n) - Traverses the linked list once.
+// Space Complexity: O(1) - Uses only one extra pointer (temp).
