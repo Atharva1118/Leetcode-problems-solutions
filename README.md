@@ -93,6 +93,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
