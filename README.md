@@ -264,6 +264,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
