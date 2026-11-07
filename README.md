@@ -86,6 +86,7 @@
 | [0268-missing-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -144,6 +145,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -342,6 +344,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
