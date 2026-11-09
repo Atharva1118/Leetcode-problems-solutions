@@ -194,6 +194,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
@@ -210,6 +211,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -268,6 +270,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2413-smallest-even-multiple) |
