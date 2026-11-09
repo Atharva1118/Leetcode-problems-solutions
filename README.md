@@ -270,6 +270,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2652-sum-multiples) |
@@ -532,4 +533,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
