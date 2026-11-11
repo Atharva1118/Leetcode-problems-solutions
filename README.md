@@ -53,6 +53,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -211,6 +212,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
