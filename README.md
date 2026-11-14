@@ -261,6 +261,7 @@
 | [0069-sqrtx](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0371-sum-of-two-integers) |
