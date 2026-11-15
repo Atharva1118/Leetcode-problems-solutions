@@ -48,3 +48,11 @@ class Solution {
         return ans;
     }
 }
+
+
+// Time Complexity: O(n log n + (n / k) * k log k + n)
+//                 For each valid k, all blocks are sorted.
+//                 Overall worst case: O(n^2 log n).
+
+// Space Complexity: O(n)
+//                   For the sorted array and temporary block array.
