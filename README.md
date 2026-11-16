@@ -277,6 +277,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
@@ -474,6 +475,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
@@ -549,9 +551,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2413-smallest-even-multiple) |
 ## Geometry
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
