@@ -280,6 +280,7 @@
 | [1952-three-divisors](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2413-smallest-even-multiple) |
@@ -391,6 +392,7 @@
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 ## Recursion
 |  |
