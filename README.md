@@ -52,6 +52,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -395,6 +396,7 @@
 | [0054-spiral-matrix](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/Atharva1118/Leetcode-problems-solutions/tree/master/2974-minimum-number-game) |
 ## Recursion
